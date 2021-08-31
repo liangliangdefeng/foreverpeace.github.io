@@ -6,7 +6,16 @@
     <description>Recent content in Posts on foreverpeace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 21:54:26 +0800</lastBuildDate><atom:link href="https://liangliangdefeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://liangliangdefeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客发布相关命令</title>
+      <link>https://liangliangdefeng.github.io/post/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://liangliangdefeng.github.io/post/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>本地预览启动命令 hugo server -t m10c --buildDrafts生成博客发布文件 hugo --theme=m10c --baseUrl=&amp;quot;https://liangliangdefeng.github.io/&amp;quot; --buildDraftsgit命令：添加到本地仓库 git add *git命令：添加提交信息 git commit -m &amp;quot;这是一个提交信息&amp;quot;git命令：推送到github git push</description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://liangliangdefeng.github.io/post/blog/</link>
