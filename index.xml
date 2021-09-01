@@ -17,15 +17,14 @@
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>https://liangliangdefeng.github.io/post/blog/</link>
-      <pubDate>Sun, 29 Aug 2021 21:54:26 +0800</pubDate>
+      <title>数学知识点整理</title>
+      <link>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://liangliangdefeng.github.io/post/blog/</guid>
-      <description>A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.
-Website | Forum | Documentation | Installation Guide | Contribution Guide | Twitter
-  
-Overview Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.</description>
+      <guid>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</guid>
+      <description>与绝对值有关的不等式 $(1)\quad若\delta \in R_{_+}, x,a \in R，则$ $$ \lvert x-a \rvert \lt \delta \Leftrightarrow a - \delta \lt x \lt a + \delta; $$ $(2)\quad若x,y \in R,则$ $$\begin{aligned} \lvert x \pm y \rvert &amp;amp;\leqslant \lvert x \rvert + \lvert y \rvert,\\
+\lvert x \pm y \rvert &amp;amp;\geqslant \lvert \lvert x \rvert - \lvert y \rvert \rvert. \end{aligned}$$
+命题1.1 ($A-G$不等式，即“正数的算数平均值不小于它们的几何平均值”) $若x_{_1},x_{_2},\cdots,x_{_n} \in R_{_+}, n \in N_{_+},则$ $$ \frac{x_{_1}+x_{_2}+\cdots+x_{_n}}{n} \geqslant \sqrt[^n]{x_{_1}x_{_2}\cdots x_{_n}}. $$ $证\quad记A_n=\frac{x_{_1}+x_{_2}+\cdots+x_{_n}}{n},G_n=\sqrt[^n]{x_{_1}x_{_2}\cdots x_{_n}},n \in N_+.</description>
     </item>
     
     <item>
