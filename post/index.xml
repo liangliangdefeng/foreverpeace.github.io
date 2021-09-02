@@ -17,14 +17,23 @@
     </item>
     
     <item>
-      <title>数学知识点整理</title>
-      <link>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</link>
+      <title>数学知识点整理_命题汇总</title>
+      <link>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_%E5%91%BD%E9%A2%98%E6%B1%87%E6%80%BB/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</guid>
+      <guid>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_%E5%91%BD%E9%A2%98%E6%B1%87%E6%80%BB/</guid>
       <description>与绝对值有关的不等式 $(1)\quad若\delta \in R_{_+}, x,a \in R，则$ $$ \lvert x-a \rvert \lt \delta \Leftrightarrow a - \delta \lt x \lt a + \delta; $$ $(2)\quad若x,y \in R,则$ $$\begin{aligned} \lvert x \pm y \rvert &amp;amp;\leqslant \lvert x \rvert + \lvert y \rvert,\\
 \lvert x \pm y \rvert &amp;amp;\geqslant \lvert \lvert x \rvert - \lvert y \rvert \rvert. \end{aligned}$$
 命题1.1 ($A-G$不等式，即“正数的算数平均值不小于它们的几何平均值”) $若x_{_1},x_{_2},\cdots,x_{_n} \in R_{_+}, n \in N_{_+},则$ $$ \frac{x_{_1}+x_{_2}+\cdots+x_{_n}}{n} \geqslant \sqrt[^n]{x_{_1}x_{_2}\cdots x_{_n}}. $$ $证\quad记A_n=\frac{x_{_1}+x_{_2}+\cdots+x_{_n}}{n},G_n=\sqrt[^n]{x_{_1}x_{_2}\cdots x_{_n}},n \in N_+.</description>
+    </item>
+    
+    <item>
+      <title>数学知识点整理_定义定理汇总</title>
+      <link>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_%E5%AE%9A%E4%B9%89%E5%AE%9A%E7%90%86%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://liangliangdefeng.github.io/post/%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_%E5%AE%9A%E4%B9%89%E5%AE%9A%E7%90%86%E6%B1%87%E6%80%BB/</guid>
+      <description>定义1.1 对非空数集$E\subset R$,若$\exists M\in R$,使得$\forall x\in E$有$x\leqslant M$,则称$E$是有上界的,称$M$是$E$的一个上界;若$\exists m\in R$,使得$\forall x\in E$,有$x\geqslant m$,则称$E$是有下界的,称$m$是$E$的一个下界;若$E$既有上界又有下界,则称$E$为有界的,即$\exists m,M\in R$,使得$\forall x\in E$,有$m\leqslant x\leqslant M$.</description>
     </item>
     
     <item>
