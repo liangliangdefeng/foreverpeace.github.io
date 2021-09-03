@@ -36,7 +36,7 @@
       <description>定义1.1 对非空数集$E\subset R$,若$\exists M\in R$,使得$\forall x\in E$有$x\leqslant M$,则称$E$是有上界的,称$M$是$E$的一个上界;若$\exists m\in R$,使得$\forall x\in E$,有$x\geqslant m$,则称$E$是有下界的,称$m$是$E$的一个下界;若$E$既有上界又有下界,则称$E$为有界的,即$\exists m,M\in R$,使得$\forall x\in E$,有$m\leqslant x\leqslant M$.
 定义1.2 设非空数集$E\subset R$,若$\exists\beta\in R$满足:(1)$\forall x\in E$,有$x\leqslant \beta$;(2)$\forall \varepsilon \gt0$,$\exists x_{_\varepsilon}\in E$,使得$x_{_\varepsilon}\gt \beta-\varepsilon$,则称$\beta$是$E$的上确界,记为$\beta=supE$.
 确界存在性定理 若非空数集$E$有上(下)界,则$E$必有上(下)确界.
-定义1.3 设$X,Y$是两个非空实数集,若存在对应法则$f$,依此法则,对$\forall x\in X$,存在唯一的$y\in Y$与之对应,则称这个对应法则$f$是由数集$X$到数集$Y$的函数,记为$f:X\to Y$或$y=f(x),x\in X$.数集$X$称为函数f的定义域,记为$D(f)$.
+定义1.3 设$X,Y$是两个非空实数集,若存在对应法则$f$,依此法则,对$\forall x\in X$,存在唯一的$y\in Y$与之对应,则称这个对应法则$f$是由数集$X$到数集$Y$的函数,记为$f:X\to Y$或$y=f(x),x\in X$.数集$X$称为函数$f$的定义域,记为$D(f)$.
 定义1.4 设$X,Y$为两个非空集合,若存在对应法则$T$,依此法则,对$\forall x\in X$,存在唯一的$y\in Y$与之对应,则称$T$是由$X$到$Y$的映射,记为$T:X\to Y$,$x\mapsto y=T(x)$,称$T(x)$为$x$在映射$T$下的像,$x$称为$y$在映射$T$下的一个原像.</description>
     </item>
     
